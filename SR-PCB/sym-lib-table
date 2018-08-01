@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name efm32hg310f64g-b-qfn32)(type Legacy)(uri /Users/Allen/Documents/workspace/SR-board/SR-PCB/efm32hg310f64g-b-qfn32.lib)(options "")(descr ""))
+)
