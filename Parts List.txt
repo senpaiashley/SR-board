@@ -5,3 +5,6 @@ Voltage Regulator: https://www.digikey.com/product-detail/en/MC33275DT-3.3G/MC33
 
 
 Micro USB Receptacle: https://www.digikey.com/product-detail/en/10118193-0001LF/609-4616-1-ND/2785380?utm_campaign=buynow&WT.z_cid=ref_octopart_dkc_buynow&utm_medium=aggregator&curr=usd&site=us&utm_source=octopart
+
+
+Some Header (Probably not the right one): https://www.digikey.com/product-detail/en/M50-3001045/952-1368-5-ND/2264349?utm_campaign=buynow&WT.z_cid=ref_octopart_dkc_buynow&utm_medium=aggregator&curr=usd&site=us&utm_source=octopart
