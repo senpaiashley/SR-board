@@ -1,4 +1,4 @@
--LED: https://www.digikey.com/product-detail/en/lite-on-inc/LTST-C193KRKT-2A/160-1909-1-ND/3694456
--Voltage Regulator: https://www.digikey.com/product-detail/en/MC33275DT-3.3G/MC33275DT-3.3GOS-ND/1479196?utm_campaign=buynow&WT.z_cid=ref_octopart_dkc_buynow&utm_medium=aggregator&curr=usd&site=us&utm_source=octopart
+LED: https://www.digikey.com/product-detail/en/lite-on-inc/LTST-C193KRKT-2A/160-1909-1-ND/3694456
+Voltage Regulator: https://www.digikey.com/product-detail/en/MC33275DT-3.3G/MC33275DT-3.3GOS-ND/1479196?utm_campaign=buynow&WT.z_cid=ref_octopart_dkc_buynow&utm_medium=aggregator&curr=usd&site=us&utm_source=octopart
 
--Micro USB Receptacle: https://www.digikey.com/product-detail/en/10118193-0001LF/609-4616-1-ND/2785380?utm_campaign=buynow&WT.z_cid=ref_octopart_dkc_buynow&utm_medium=aggregator&curr=usd&site=us&utm_source=octopart
+Micro USB Receptacle: https://www.digikey.com/product-detail/en/10118193-0001LF/609-4616-1-ND/2785380?utm_campaign=buynow&WT.z_cid=ref_octopart_dkc_buynow&utm_medium=aggregator&curr=usd&site=us&utm_source=octopart
