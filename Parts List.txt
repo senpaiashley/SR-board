@@ -1,0 +1,3 @@
+LED: https://www.digikey.com/product-detail/en/LTST-C190EKT/160-1182-1-ND/269254?utm_campaign=buynow&WT.z_cid=ref_octopart_dkc_buynow&utm_medium=aggregator&curr=usd&site=us&utm_source=octopart
+
+VR: https://www.digikey.com/product-detail/en/MC33275DT-3.3G/MC33275DT-3.3GOS-ND/1479196?utm_campaign=buynow&WT.z_cid=ref_octopart_dkc_buynow&utm_medium=aggregator&curr=usd&site=us&utm_source=octopart
